@@ -1,0 +1,60 @@
+# Powered Through Citizen Science #
+First of all, here are a select few of our wonderful Planet 9 project contributors:
+
+![Planet9CitizenScientists.jpeg](https://panoptes-uploads.zooniverse.org/project_attached_image/7dcfe100-1d5c-4ed9-bb60-7d1b217c89e5.jpeg)
+
+## Interns ##
+![AustinHumphreysPhotoCropped.png](https://panoptes-uploads.zooniverse.org/project_attached_image/9f52587a-b5de-4e03-b0fe-3d2d67344cf7.png =x150)
+
+[Austin Humphreys](+tab+https://www.linkedin.com/in/austin-humphreys-b87055187/) is a Banneker Key scholar and a rising senior at the University of Maryland, College Park working towards a dual degree in astronomy and physics. Working remotely from Maryland with the Backyard Worlds: Cool Neighbors team, he is an experienced coder having experience in both physics-based and astronomy-based research projects as a part of his undergraduate education, ranging from plasma physics simulations to photometric analysis of planetary nebulae. Prior to his college education, he had the opportunity to be an observational assistant at the Maryland Science Center's Crosby Ramsey Memorial Observatory for three years where he would operate and maintain an 8-inch refractor telescope for the public.
+
+![NoahSchaperaPhoto(Cropped).png](https://panoptes-uploads.zooniverse.org/project_attached_image/30e11461-4932-4a78-bffb-e4fe5ef38e8b.png =x150)
+
+[Noah Schapera](+tab+https://www.linkedin.com/in/noah-schapera-86303a1b9/) (they/them) is a rising junior and Ledley L. Brown Scholar at Emory University studying physics and astronomy. They joined the Backyard Worlds team at NOIRLab as an intern during the summer of 2022 and has been developing a data pipeline between the WiseView catalog and Zooniverse. Outside of Cool Neighbors, they have also worked on data analysis for the [Disk Detective](+tab+https://www.diskdetective.org) project under Dr. Alissa Bans and currently conducts research with the Emory observatory on debris disk and variable star candidates.
+
+![noirlab_headshot_Gradycropped.jpg](https://panoptes-uploads.zooniverse.org/project_attached_image/ac327195-32d1-412d-b6bb-d48b41418984.jpeg =x200)
+
+[Grady Robbins](+tab+https://www.linkedin.com/in/grady-robbins-2b4679265/) (he/him) is a rising senior and Florida Academics Scholar at the University of Florida, where he is pursuing a Bachelor's of Science degree in astrophysics. He began working at NOIRLab in-person as a Science Intern in May 2023 and has aided in the final launch of Cool Neighbors. At the University of Florida, Grady is an undergraduate research assistant working on protoplanetary disks under Dr. Jaehan Bae (visit some of his work on [GitHub)](+tab+https://github.com/grobbins2/Research_disks). He has gained experience in protoplanetary disk simulation, exoplanet detection/analysis, and advanced Python knowledge through his courses and work.
+
+## Core Science Team ##
+
+[Aaron Meisner](+tab+http://aaronmeisner.com) (NSF's NOIRLab) is a staff astronomer at [NSF's NOIRLab](+tab+https://noirlab.edu/public/) in Tucson, Arizona. He went to college at Stanford and earned a doctorate degree from Harvard in 2015. He specializes in processing large data sets of astronomical images, and previously co-founded the Backyard Worlds: Planet 9 citizen science project.
+![Aaron Meisner Headshot](https://panoptes-uploads.zooniverse.org/production/project_attached_image/86205374-eb84-4f99-989d-4f8fbedabe11.jpeg =x150)
+
+[Dan Caselden](+tab+https://solarsystem.nasa.gov/people/356/dan-caselden/) is a security researcher and prolific discoverer of brown dwarfs. Dan invented the [WiseView](+tab+https://ui.adsabs.harvard.edu/abs/2018ascl.soft06004C/abstract) image blinking tool and has pioneered the application of machine learning in the realm of brown dwarf discovery.
+![dan_aas.jpeg](https://panoptes-uploads.zooniverse.org/project_attached_image/a930b6a2-bcf2-4564-bac7-d6cfc26b0dd0.jpeg =x150)
+
+[Davy Kirkpatrick](+tab+https://en.wikipedia.org/wiki/J._Davy_Kirkpatrick) is an astronomer at the Infrared Processing and Analysis Center at the California Institute of Technology in Pasadena, California. His research helped define the L, T, and Y classes of brown dwarfs. Davy is also credited with first using the name "Tyche" to refer to a heretofore unseen, low-mass Solar companion in the Oort Cloud. 
+![DavyKirkpatrick_sm_color2-(1).png](https://panoptes-uploads.zooniverse.org/project_attached_image/5417f5d4-be4b-4cd8-bd3b-82b75444aa0d.png =150x)
+
+[Adam Schneider](+tab+http://adamcschneider.com) (USNO) Adam Schneider received his doctorate from the University of Georgia and is currently a research scientist at George Mason University and the US Naval Observatory.  He is an observational astronomer whose research focuses on identifying and characterizing late-type stars and brown dwarfs in the Solar neighborhood.  He is particularly interested in the nearest systems, as well as young, nearby systems and how such objects can aid in our understanding of the diversity of extrasolar planets as well as the star formation history of the local neighborhood.
+![Adam Schneider headshot](https://panoptes-uploads.zooniverse.org/production/project_attached_image/147b38f9-8320-4ebd-b110-352b208f16c4.jpeg =x150)
+
+[Jackie Faherty](+tab+http://www.amnh.org/our-research/staff-directory/jackie-faherty/) (American Museum of Natural History) is a staff scientist in the department of Astrophysics at the American Museum of Natural History. She received her doctorate from Stony Brook University in 2010 with a dissertation entitled "The Brown Dwarf Kinematics Project". Dr. Faherty's research group entitled Brown Dwarfs in New York City ([BDNYC](+tab+http://www.bdnyc.org/)) looks at the intersection of the observable properties of brown dwarfs and giant exoplanets. She has a keen interest in the atmospheres of the coldest brown dwarfs and how they resemble those of Jupiter. Follow her on Twitter [@jfaherty!](+tab+https://twitter.com/jfaherty)
+![Faherty headshot](https://panoptes-uploads.zooniverse.org/production/project_attached_image/db58ac9f-ef83-41d8-9646-2ed7fafe4353.jpeg =x150)
+
+[Marc Kuchner](+tab+http://asd.gsfc.nasa.gov/Marc.Kuchner/home.html) (NASA Goddard Space Flight Center) is the Principal Investigator (PI) of Backyard Worlds: Planet 9. Marc got his bachelor's degree from Harvard, his doctorate from Caltech, and completed one postdoctoral fellowship at the Harvard-Smithsonian Center for Astrophysics, and one at Princeton. He has worked on theory, observations and instrumentation, mostly related to extrasolar planets, circumstellar disks, or planet formation. At Caltech, Marc was a graduate student of Mike Brown, who is also now searching for Planet Nine. Marc is also the PI of [Disk Detective,](+tab+https://www.diskdetective.org) another popular Zooniverse citizen science project, which also uses data from WISE. You can follow him on Twitter [@marckuchner](+tab+https://twitter.com/marckuchner)
+![Marc Kuchner headshot](https://panoptes-uploads.zooniverse.org/production/project_attached_image/f663edf5-0bcf-4b29-9bc4-6a9c521a7f31.jpeg =150x150)
+
+## Collaborators ##
+
+[Daniella C. Bardalez Gagliuffi](+tab+http://daniellabardalezgagliuffi.github.io) is a Kalbfleisch Fellow at the American Museum of Natural History. Originally from Lima, Peru, she obtained her bachelor's of science degree from the Massachusetts Institute of Technology (MIT) and her doctorate from the University of California San Diego. Daniella is an observational astronomer with extensive experience with near infrared spectroscopy.  Her research focuses on the identification and characterization of binary systems of brown dwarfs, and she is interested in finding planetary-mass companions to brown dwarfs to test formation theories. Follow her on Twitter [@astro_daniella!](+tab+https://twitter.com/astro_daniella)
+![Daniella.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/88094cf1-1e30-4f7a-9276-8ae70fd98359.jpeg =x150)
+
+[Adam Burgasser](+tab+https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=864) is a Professor in the Department of Physics at the University of California San Diego and an observational astrophysicist investigating the lowest mass stars, coldest brown dwarfs, and exoplanets. He uses a variety of ground-based and space-based telescopes to research the physical properties and processes of these objects, including: optical and near-infrared spectroscopy to explore the atmospheres of MLTY dwarfs; high resolution laser guide star adaptive optics imaging and high resolution spectroscopy to search for and characterize low-mass multiple systems; radio, optical and X-ray observations to study magnetic activity; synoptic photometry and spectroscopy to investigate brown dwarf weather; and numerical simulations to characterize brown dwarf populations. He is best known for leading the definition of the T spectral class (part of his doctoral thesis work), discovering metal-poor halo L subdwarfs, and investigating the remarkable L dwarf/T dwarf transition. Follow him on Twitter [@browndwarfs](+tab+https://twitter.com/browndwarfs)! 
+![AdamB_headshot.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/7daef12b-4025-42f0-9e9d-7b9d65db38d1.jpeg =150x)
+
+[Sarah Casewell](+tab+http://www2.le.ac.uk/departments/physics/people/academic-staff/slc25) is currently an STFC Ernest Rutherford Research Fellow at the University of Leicester in the United Kingdom. She received her doctorate in 2007 from the University of Leicester where she researched both brown dwarfs and white dwarfs. Sarah is an observational astronomer working in the optical and infrared to study brown dwarfs in both wide and close binaries with [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf). She is particularly interested in close systems where the brown dwarf has survived the death of the white dwarf and now is locked in an orbit of a few hours, subjecting the brown dwarf to high levels of irradiation.
+![me2.jpeg](https://panoptes-uploads.zooniverse.org/project_attached_image/e6496944-c600-4466-b820-7fd4052d1b69.jpeg =x150)
+
+[Jonathan Gagne](+tab+https://jgagneastro.wordpress.com/) (Conseiller Scientifique / Scientific Advisor, Planétarium Rio Tinto Alcan | Espace pour la vie) Québécois Jonathan Gagne earned his doctorate from the University of Montreal. He's an expert on brown dwarfs, exoplanets and near-infrared spectroscopy. He also works on the [Disk Detective](+tab+https://www.diskdetective.org) citizen science project, helping identify objects that are in young moving groups with his [BANYAN Sigma software.](+tab+http://www.exoplanetes.umontreal.ca/banyan/banyansigma.php)
+![headshot_jonathan_gagne.jpg](https://panoptes-uploads.zooniverse.org/production/project_attached_image/90d5cbc1-cf7b-44da-a2a2-8d0926d31b41.jpeg =150x)
+
+[Federico Marocco](+tab+https://www.ipac.caltech.edu/science/staff/federico-marocco) is a Scientific Research Associate at IPAC, California Institute of Technology. Originally from Fossano (Italy), Federico earned his bachelor’s degree at the Università degli Studi di Torino (Italy) and his doctorate at the University of Hertfordshire (UK). Before joining IPAC, he worked at NASA's Jet Propulsion Laboratory on generating the [CatWISE2020](+tab+https://catwise.github.io/) Catalog, an all-sky infrared catalog which provides measured position, motion and brightness at 3.4 and 4.6 µm for ~1.9 billion celestial objects. Federico is an expert in near-infrared spectroscopy and astrometry for the coldest brown dwarfs in the Solar neighborhood.
+![Fede_byw.jpg](https://panoptes-uploads.zooniverse.org/project_attached_image/e51d5023-115a-414f-afeb-3908526b3f58.jpeg =x150)
+
+## Acknowledgments ##
+
+Thanks to NASA, which has funded this work through the Citizen Science Seed Funding Program, Grant 80NSSC21K1485.
+
+The work of Cool Neighbors personnel has been supported by NOIRLab, which is managed by the Association of Universities for Research in Astronomy (AURA) under a cooperative agreement with the National Science Foundation.
